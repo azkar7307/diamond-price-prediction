@@ -1,12 +1,12 @@
 pandas
-scikit-learn
+# scikit-learn
 numpy
 seaborn 
 flask
 mlflow==2.2.2
 dvc
 ipykernel
-xgboost
+# xgboost
 
 # dev requirements -
 
